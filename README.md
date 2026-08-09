@@ -40,7 +40,7 @@
   },
   "currentFocus": "Engineering scalable backend systems 🚀",
   "openTo"      : ["Backend Roles", "Flutter Projects", "Collaboration"],
-  "impact"      : "185K+ followers • 4x hackathon/presentation award winner",
+  "impact"      : "190K+ followers • 4x hackathon/presentation award winner",
   "funFact"     : "Backend by day, mic in hand by night — I build systems and win presentations 🏆"
 }
 ```
