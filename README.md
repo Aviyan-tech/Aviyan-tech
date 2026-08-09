@@ -1,302 +1,109 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Trophy Case</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
-<style>
-  :root {
-    --bg: #F7F6F2;
-    --card: #FFFFFF;
-    --border: #E4E1D8;
-    --text: #1C1B18;
-    --text-secondary: #6B6960;
-    --text-muted: #A6A399;
-    --gold-bg: #FBF1DC;
-    --gold-text: #8A5A0B;
-    --gold-icon: #C6870F;
-    --purple-bg: #EFEBFB;
-    --purple-text: #5B3FA0;
-    --purple-icon: #7C5CD6;
-    --blue-bg: #E8F1FB;
-    --blue-text: #1D5A96;
-    --blue-icon: #3480CC;
-    --radius: 14px;
-    --font-display: "Space Grotesk", sans-serif;
-    --font-body: "Inter", sans-serif;
-    --font-mono: "IBM Plex Mono", monospace;
-  }
+<h1 align="center">Hi, I'm Aviyan 👋</h1>
 
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --bg: #14151A;
-      --card: #1D1F26;
-      --border: #2C2E37;
-      --text: #EDEBE3;
-      --text-secondary: #9C9C9C;
-      --gold-bg: #33290F;
-      --gold-text: #E8B84B;
-      --gold-icon: #E8B84B;
-      --purple-bg: #251F3A;
-      --purple-text: #B9A3F5;
-      --purple-icon: #B9A3F5;
-      --blue-bg: #16273A;
-      --blue-text: #7EB3EA;
-      --blue-icon: #7EB3EA;
-    }
-  }
+<p align="center">
+  Building with IoT, backend systems, and Flutter — and writing for 185K+ readers on the side.
+</p>
 
-  * { box-sizing: border-box; }
+<p align="center">
+  <img src="https://img.shields.io/badge/status-open%20to%20collab-22C55E?style=flat-square" />
+  <img src="https://img.shields.io/badge/focus-backend%20%7C%20IoT%20%7C%20Flutter-3B82F6?style=flat-square" />
+</p>
 
-  body {
-    margin: 0;
-    padding: 48px 24px;
-    background: var(--bg);
-    font-family: var(--font-body);
-    color: var(--text);
-  }
+<br/>
 
-  main {
-    max-width: 880px;
-    margin: 0 auto;
-  }
+## 👨‍💻 About Me
 
-  section + section {
-    margin-top: 48px;
-  }
+- 🏆 Building IoT projects and backend systems, most recently an award-winning IoT project at ICP CASE 2025
+- 📱 Working on Flutter apps and figuring out what it takes to run them well in production
+- 🎤 Comfortable on stage — placed as a top presenter at ICP CASE 2026 and Model United Nations
+- ✍️ Run a tech news page with 185K+ followers
+- 🌱 Currently deep-diving into backend architecture and API design patterns
 
-  .eyebrow {
-    font-family: var(--font-mono);
-    font-size: 12px;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-    color: var(--text-secondary);
-    margin: 0 0 6px;
-  }
+<br/>
 
-  h2 {
-    font-family: var(--font-display);
-    font-weight: 600;
-    font-size: 28px;
-    margin: 0 0 24px;
-    letter-spacing: -0.01em;
-  }
+## 🛠️ Tech Stack
 
-  .grid {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 14px;
-  }
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-  .card {
-    background: var(--card);
-    border: 1px solid var(--border);
-    border-radius: var(--radius);
-    padding: 20px 20px 18px;
-    display: flex;
-    flex-direction: column;
-    gap: 14px;
-  }
+> Edit this list to match what you actually use — pull the exact badge names from [Shields.io](https://shields.io) or [simple-icons](https://simpleicons.org).
 
-  .card-top {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-  }
+<br/>
 
-  .icon-badge {
-    width: 38px;
-    height: 38px;
-    border-radius: 10px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
+## 📊 GitHub Stats
 
-  .icon-badge svg {
-    width: 18px;
-    height: 18px;
-  }
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aviyan-tech&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aviyan-tech&layout=compact&hide_border=true" />
+</p>
 
-  .tag-gold { background: var(--gold-bg); }
-  .tag-gold svg { stroke: var(--gold-icon); }
-  .tag-purple { background: var(--purple-bg); }
-  .tag-purple svg { stroke: var(--purple-icon); }
-  .tag-blue { background: var(--blue-bg); }
-  .tag-blue svg { stroke: var(--blue-icon); }
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aviyan-tech&hide_border=true" />
+</p>
 
-  .pill {
-    font-family: var(--font-mono);
-    font-size: 11px;
-    font-weight: 500;
-    letter-spacing: 0.02em;
-    padding: 3px 9px;
-    border-radius: 999px;
-  }
+<br/>
 
-  .pill-gold { background: var(--gold-bg); color: var(--gold-text); }
-  .pill-purple { background: var(--purple-bg); color: var(--purple-text); }
-  .pill-blue { background: var(--blue-bg); color: var(--blue-text); }
+## 🏆 Trophy Case
 
-  .card-title {
-    font-weight: 600;
-    font-size: 15px;
-    margin: 0;
-  }
+<table>
+  <tr>
+    <td align="center" width="33%">
+      🏆<br/>
+      <b>Winner, IoT project</b><br/>
+      <sub>ICP CASE 2025</sub><br/>
+      <img src="https://img.shields.io/badge/1st%20place-EAB308?style=flat-square&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      🎤<br/>
+      <b>Best presenter</b><br/>
+      <sub>ICP CASE 2026</sub><br/>
+      <img src="https://img.shields.io/badge/speaker-8B5CF6?style=flat-square&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      🥈<br/>
+      <b>Runner-up</b><br/>
+      <sub>ICP hackathon 2026</sub><br/>
+      <img src="https://img.shields.io/badge/2nd%20place-EAB308?style=flat-square&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      🎖️<br/>
+      <b>Runner-up</b><br/>
+      <sub>Digital Rising Creator Award 2026</sub><br/>
+      <img src="https://img.shields.io/badge/2nd%20place-EAB308?style=flat-square&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      🎤<br/>
+      <b>Best presenter</b><br/>
+      <sub>Model United Nations</sub><br/>
+      <img src="https://img.shields.io/badge/speaker-8B5CF6?style=flat-square&logoColor=white" />
+    </td>
+    <td align="center" width="33%">
+      📣<br/>
+      <b>185K+ followers</b><br/>
+      <sub>Tech news page</sub><br/>
+      <img src="https://img.shields.io/badge/reach-3B82F6?style=flat-square&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-  .card-sub {
-    font-size: 13px;
-    color: var(--text-secondary);
-    margin: 0;
-  }
+<br/>
 
-  .help-list {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-  }
+## 🤝 Looking for Help With
 
-  .help-row {
-    display: flex;
-    align-items: center;
-    gap: 14px;
-    background: var(--card);
-    border: 1px solid var(--border);
-    border-radius: var(--radius);
-    padding: 16px 20px;
-  }
+- 🛠️ Reviewing backend architecture and API design patterns
+- 📱 Best practices for scaling Flutter apps in production
 
-  .help-row svg {
-    width: 20px;
-    height: 20px;
-    stroke: var(--text-secondary);
-    flex-shrink: 0;
-  }
-
-  .help-row span {
-    font-size: 14.5px;
-  }
-
-  @media (max-width: 720px) {
-    .grid { grid-template-columns: repeat(2, 1fr); }
-  }
-
-  @media (max-width: 480px) {
-    .grid { grid-template-columns: 1fr; }
-    h2 { font-size: 24px; }
-  }
-</style>
-</head>
-<body>
-<main>
-
-  <section>
-    <p class="eyebrow">Achievements</p>
-    <h2>Trophy case</h2>
-    <div class="grid">
-
-      <div class="card">
-        <div class="card-top">
-          <div class="icon-badge tag-gold" aria-hidden="true">
-            <svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M8 21h8M12 17v4M7 4h10v4a5 5 0 0 1-10 0V4Z"/><path d="M17 5h2a2 2 0 0 1 2 2v1a3 3 0 0 1-3 3M7 5H5a2 2 0 0 0-2 2v1a3 3 0 0 0 3 3"/></svg>
-          </div>
-          <span class="pill pill-gold">1st place</span>
-        </div>
-        <div>
-          <p class="card-title">Winner, IoT project</p>
-          <p class="card-sub">ICP CASE 2025</p>
-        </div>
-      </div>
-
-      <div class="card">
-        <div class="card-top">
-          <div class="icon-badge tag-purple" aria-hidden="true">
-            <svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="2" width="6" height="12" rx="3"/><path d="M5 10a7 7 0 0 0 14 0M12 19v3"/></svg>
-          </div>
-          <span class="pill pill-purple">Speaker</span>
-        </div>
-        <div>
-          <p class="card-title">Best presenter</p>
-          <p class="card-sub">ICP CASE 2026</p>
-        </div>
-      </div>
-
-      <div class="card">
-        <div class="card-top">
-          <div class="icon-badge tag-gold" aria-hidden="true">
-            <svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="15" r="6"/><path d="M9 4h6l1 6-4 3-4-3 1-6Z"/></svg>
-          </div>
-          <span class="pill pill-gold">2nd place</span>
-        </div>
-        <div>
-          <p class="card-title">Runner-up</p>
-          <p class="card-sub">ICP hackathon 2026</p>
-        </div>
-      </div>
-
-      <div class="card">
-        <div class="card-top">
-          <div class="icon-badge tag-gold" aria-hidden="true">
-            <svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="5"/><path d="M8.5 13 7 22l5-3 5 3-1.5-9"/></svg>
-          </div>
-          <span class="pill pill-gold">2nd place</span>
-        </div>
-        <div>
-          <p class="card-title">Runner-up</p>
-          <p class="card-sub">Digital Rising Creator Award 2026</p>
-        </div>
-      </div>
-
-      <div class="card">
-        <div class="card-top">
-          <div class="icon-badge tag-purple" aria-hidden="true">
-            <svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="2" width="6" height="12" rx="3"/><path d="M5 10a7 7 0 0 0 14 0M12 19v3"/></svg>
-          </div>
-          <span class="pill pill-purple">Speaker</span>
-        </div>
-        <div>
-          <p class="card-title">Best presenter</p>
-          <p class="card-sub">Model United Nations</p>
-        </div>
-      </div>
-
-      <div class="card">
-        <div class="card-top">
-          <div class="icon-badge tag-blue" aria-hidden="true">
-            <svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M3 11v2a1 1 0 0 0 1 1h2l4 4V6L6 10H4a1 1 0 0 0-1 1Z"/><path d="M15 8a5 5 0 0 1 0 8M18 5a9 9 0 0 1 0 14"/></svg>
-          </div>
-          <span class="pill pill-blue">Reach</span>
-        </div>
-        <div>
-          <p class="card-title">185K+ followers</p>
-          <p class="card-sub">Tech news page</p>
-        </div>
-      </div>
-
-    </div>
-  </section>
-
-  <section>
-    <p class="eyebrow">Open to collaboration</p>
-    <h2>Looking for help with</h2>
-    <div class="help-list">
-      <div class="help-row">
-        <svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="6" rx="1.5"/><rect x="3" y="14" width="18" height="6" rx="1.5"/><circle cx="7" cy="7" r=".6" fill="currentColor" stroke="none"/><circle cx="7" cy="17" r=".6" fill="currentColor" stroke="none"/></svg>
-        <span>Reviewing backend architecture and API design patterns</span>
-      </div>
-      <div class="help-row">
-        <svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="7" y="2" width="10" height="20" rx="2"/><path d="M11 18h2"/></svg>
-        <span>Best practices for scaling Flutter apps in production</span>
-      </div>
-    </div>
-  </section>
-
-</main>
-</body>
-</html>
+<br/>
 
 ---
 
@@ -305,5 +112,7 @@
 ### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#)
+[![Tech News Page](https://img.shields.io/badge/Tech%20News-185K%2B%20followers-3B82F6?style=for-the-badge)](#)
 
 </div>
