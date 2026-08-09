@@ -58,21 +58,66 @@ backend develop
 ## GitHub Analytics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aviyan-tech&show_icons=true&theme=default&hide_border=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Aviyan-tech&theme=default&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aviyan-tech&show_icons=true&theme=default&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aviyan-tech&layout=compact&hide_border=true&theme=default"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aviyan-tech&theme=default&hide_border=true" width="48%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aviyan-tech&theme=react-dark&hide_border=true&area=true" width="100%"/>
+
 </div>
 
 ---
 
 ## Trophy Case
 
-| 🥇 Winner — IoT Project | 🎤 Best Presenter | 🥈 Runner-Up |
-|:---:|:---:|:---:|
-| ICP CASE 2025 | ICP CASE 2026 | ICP Hackathon 2026 |
+<div align="center">
 
-| 🌟 Runner-Up | 🗣️ Best Presenter | 📢 185K+ Followers |
-|:---:|:---:|:---:|
-| Digital Rising Creator Award 2026 | MUN (Model United Nations) | Tech News Page |
+<img src="https://github-profile-trophy.vercel.app/?username=Aviyan-tech&theme=flat&no-frame=true&column=4&margin-w=8&margin-h=8" width="100%"/>
+
+</div>
+
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+<h2>🥇</h2>
+<b>Winner — IoT Project</b><br/>
+<sub>ICP CASE 2025</sub>
+</td>
+<td align="center" width="33%">
+<h2>🎤</h2>
+<b>Best Presenter</b><br/>
+<sub>ICP CASE 2026</sub>
+</td>
+<td align="center" width="33%">
+<h2>🥈</h2>
+<b>Runner-Up</b><br/>
+<sub>ICP Hackathon 2026</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<h2>🌟</h2>
+<b>Runner-Up</b><br/>
+<sub>Digital Rising Creator Award 2026</sub>
+</td>
+<td align="center" width="33%">
+<h2>🗣️</h2>
+<b>Best Presenter</b><br/>
+<sub>MUN (Model United Nations)</sub>
+</td>
+<td align="center" width="33%">
+<h2>📢</h2>
+<b>185K+ Followers</b><br/>
+<sub>Tech News Page</sub>
+</td>
+</tr>
+</table>
 
 ---
 
