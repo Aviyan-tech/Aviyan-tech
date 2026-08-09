@@ -85,7 +85,6 @@
 ---
 
 ## Trophy Case
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:F2C811,100:EC4899&height=90&section=header&text=🏆%20Trophy%20Case&fontSize=28&fontColor=1a1a2e&fontAlignY=55" width="100%"/>
 </div>
@@ -99,7 +98,7 @@
 <td align="center" width="33%">
 <h1>🎤</h1>
 <b>Best Presenter</b><br/>
-<img src="https://img.shields.io/badge/ICP%20CASE%202025-8B5CF6?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/ICP%20CAUSE%202025-8B5CF6?style=flat-square&labelColor=1a1a2e"/>
 </td>
 <td align="center" width="33%">
 <h1>🥈</h1>
@@ -121,7 +120,7 @@
 <td align="center" width="33%">
 <h1>📢</h1>
 <b>190K+ Followers</b><br/>
-<img src="https://img.shields.io/badge/Tech%20News%20Page-F43F5E?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/News%20Page-F43F5E?style=flat-square&labelColor=1a1a2e"/>
 </td>
 </tr>
 </table>
