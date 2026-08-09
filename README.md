@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aviyan%20%7C%20a%20backend%20developer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Engineering%20Scalable%20Backends.%20Building%20Flutter%20Apps.%20Winning%20Presentations.&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=200&section=header&text=Aviyan%20%7C%20a%20backend%20developer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Engineering%20Scalable%20Backends.%20Building%20Flutter%20Apps.%20Winning%20Presentations.&descAlignY=62&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Backend+Developer+%40+Everacy+Tech;Building+Scalable+APIs+%26+Systems;Flutter+%7C+Java+EE+%7C+Python+%7C+MySQL;4x+Award+Winner+%7C+185K%2B+Followers" alt="Typing SVG"/>
 
@@ -124,6 +124,7 @@
 </td>
 </tr>
 </table>
+
 ---
 
 ## Looking for Help With
