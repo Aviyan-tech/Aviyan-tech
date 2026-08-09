@@ -77,44 +77,42 @@ backend develop
 ## Trophy Case
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aviyan-tech&theme=flat&no-frame=true&column=4&margin-w=8&margin-h=8" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F2C811,100:EC4899&height=90&section=header&text=🏆%20Trophy%20Case&fontSize=28&fontColor=1a1a2e&fontAlignY=55" width="100%"/>
 </div>
 
 <table width="100%">
 <tr>
 <td align="center" width="33%">
-<h2>🥇</h2>
+<h1>🥇</h1>
 <b>Winner — IoT Project</b><br/>
-<sub>ICP CASE 2025</sub>
+<img src="https://img.shields.io/badge/ICP%20CASE%202025-F2C811?style=flat-square&labelColor=1a1a2e"/>
 </td>
 <td align="center" width="33%">
-<h2>🎤</h2>
+<h1>🎤</h1>
 <b>Best Presenter</b><br/>
-<sub>ICP CASE 2026</sub>
+<img src="https://img.shields.io/badge/ICP%20CASE%202026-8B5CF6?style=flat-square&labelColor=1a1a2e"/>
 </td>
 <td align="center" width="33%">
-<h2>🥈</h2>
+<h1>🥈</h1>
 <b>Runner-Up</b><br/>
-<sub>ICP Hackathon 2026</sub>
+<img src="https://img.shields.io/badge/ICP%20Hackathon%202026-6366F1?style=flat-square&labelColor=1a1a2e"/>
 </td>
 </tr>
 <tr>
 <td align="center" width="33%">
-<h2>🌟</h2>
+<h1>🌟</h1>
 <b>Runner-Up</b><br/>
-<sub>Digital Rising Creator Award 2026</sub>
+<img src="https://img.shields.io/badge/Digital%20Rising%20Creator%20Award%202026-EC4899?style=flat-square&labelColor=1a1a2e"/>
 </td>
 <td align="center" width="33%">
-<h2>🗣️</h2>
+<h1>🗣️</h1>
 <b>Best Presenter</b><br/>
-<sub>MUN (Model United Nations)</sub>
+<img src="https://img.shields.io/badge/MUN-A855F7?style=flat-square&labelColor=1a1a2e"/>
 </td>
 <td align="center" width="33%">
-<h2>📢</h2>
+<h1>📢</h1>
 <b>185K+ Followers</b><br/>
-<sub>Tech News Page</sub>
+<img src="https://img.shields.io/badge/Tech%20News%20Page-F43F5E?style=flat-square&labelColor=1a1a2e"/>
 </td>
 </tr>
 </table>
@@ -131,6 +129,10 @@ backend develop
 <div align="center">
 
 ### Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
