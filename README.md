@@ -1,109 +1,130 @@
-<h1 align="center">Hi, I'm Aviyan 👋</h1>
+<div align="center">
 
-<p align="center">
-  Building with IoT, backend systems, and Flutter — and writing for 185K+ readers on the side.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aviyan%20%7C%20a%20backend%20developer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Engineering%20Scalable%20Backends.%20Building%20Flutter%20Apps.%20Winning%20Presentations.&descAlignY=62&descSize=16" width="100%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-open%20to%20collab-22C55E?style=flat-square" />
-  <img src="https://img.shields.io/badge/focus-backend%20%7C%20IoT%20%7C%20Flutter-3B82F6?style=flat-square" />
-</p>
+```
+backend develop
+```
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+![Profile Views](https://komarev.com/ghpvc/?username=Aviyan-tech&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/Aviyan-tech?style=for-the-badge&color=EC4899)
+
+</div>
+
+---
+
+## About Me
+
+```json
+{
+  "name"        : "Aviyan",
+  "role"        : "Backend Developer @ Everacy Tech",
+  "code"        : ["Java", "Python", "Dart"],
+  "technologies": {
+    "backend"  : {
+      "frameworks": ["Java EE", "Servlets"],
+      "databases" : ["MySQL"]
+    },
+    "mobile"   : ["Flutter", "Dart"]
+  },
+  "currentFocus": "Engineering scalable backend systems 🚀",
+  "openTo"      : ["Backend Roles", "Flutter Projects", "Collaboration"],
+  "impact"      : "185K+ followers • 4x hackathon/presentation award winner",
+  "funFact"     : "Backend by day, mic in hand by night — I build systems and win presentations 🏆"
+}
+```
+
+---
+
+## Technical Stack
+
+### Backend Development
+![Java EE](https://img.shields.io/badge/JAVA-EE%20%2F%20SERVLETS-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-BACKEND-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-DATABASE-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Mobile App Development
+![Flutter](https://img.shields.io/badge/FLUTTER-CROSS%20PLATFORM-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/DART-LANGUAGE-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Currently Leveling Up
+![Advanced SQL](https://img.shields.io/badge/ADVANCED%20SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java EE / MVC](https://img.shields.io/badge/JAVA%20EE%20%2F%20MVC-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white)
+![Flutter Advanced State](https://img.shields.io/badge/FLUTTER%20ADVANCED%20STATE-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Aviyan-tech&show_icons=true&theme=default&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aviyan-tech&layout=compact&hide_border=true&theme=default"/>
 
 <br/>
 
-## 👨‍💻 About Me
-
-- 🏆 Building IoT projects and backend systems, most recently an award-winning IoT project at ICP CASE 2025
-- 📱 Working on Flutter apps and figuring out what it takes to run them well in production
-- 🎤 Comfortable on stage — placed as a top presenter at ICP CASE 2026 and Model United Nations
-- ✍️ Run a tech news page with 185K+ followers
-- 🌱 Currently deep-diving into backend architecture and API design patterns
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aviyan-tech&theme=default&hide_border=true" width="48%"/>
 
 <br/>
 
-## 🛠️ Tech Stack
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aviyan-tech&theme=react-dark&hide_border=true&area=true" width="100%"/>
 
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+</div>
 
-> Edit this list to match what you actually use — pull the exact badge names from [Shields.io](https://shields.io) or [simple-icons](https://simpleicons.org).
+---
 
-<br/>
+## Trophy Case
 
-## 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aviyan-tech&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aviyan-tech&layout=compact&hide_border=true" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Aviyan-tech&theme=flat&no-frame=true&column=4&margin-w=8&margin-h=8" width="100%"/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aviyan-tech&hide_border=true" />
-</p>
+</div>
 
-<br/>
-
-## 🏆 Trophy Case
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      🏆<br/>
-      <b>Winner, IoT project</b><br/>
-      <sub>ICP CASE 2025</sub><br/>
-      <img src="https://img.shields.io/badge/1st%20place-EAB308?style=flat-square&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      🎤<br/>
-      <b>Best presenter</b><br/>
-      <sub>ICP CASE 2026</sub><br/>
-      <img src="https://img.shields.io/badge/speaker-8B5CF6?style=flat-square&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      🥈<br/>
-      <b>Runner-up</b><br/>
-      <sub>ICP hackathon 2026</sub><br/>
-      <img src="https://img.shields.io/badge/2nd%20place-EAB308?style=flat-square&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      🎖️<br/>
-      <b>Runner-up</b><br/>
-      <sub>Digital Rising Creator Award 2026</sub><br/>
-      <img src="https://img.shields.io/badge/2nd%20place-EAB308?style=flat-square&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      🎤<br/>
-      <b>Best presenter</b><br/>
-      <sub>Model United Nations</sub><br/>
-      <img src="https://img.shields.io/badge/speaker-8B5CF6?style=flat-square&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      📣<br/>
-      <b>185K+ followers</b><br/>
-      <sub>Tech news page</sub><br/>
-      <img src="https://img.shields.io/badge/reach-3B82F6?style=flat-square&logoColor=white" />
-    </td>
-  </tr>
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+<h2>🥇</h2>
+<b>Winner — IoT Project</b><br/>
+<sub>ICP CASE 2025</sub>
+</td>
+<td align="center" width="33%">
+<h2>🎤</h2>
+<b>Best Presenter</b><br/>
+<sub>ICP CASE 2026</sub>
+</td>
+<td align="center" width="33%">
+<h2>🥈</h2>
+<b>Runner-Up</b><br/>
+<sub>ICP Hackathon 2026</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<h2>🌟</h2>
+<b>Runner-Up</b><br/>
+<sub>Digital Rising Creator Award 2026</sub>
+</td>
+<td align="center" width="33%">
+<h2>🗣️</h2>
+<b>Best Presenter</b><br/>
+<sub>MUN (Model United Nations)</sub>
+</td>
+<td align="center" width="33%">
+<h2>📢</h2>
+<b>185K+ Followers</b><br/>
+<sub>Tech News Page</sub>
+</td>
+</tr>
 </table>
 
-<br/>
+---
 
-## 🤝 Looking for Help With
+## Looking for Help With
 
-- 🛠️ Reviewing backend architecture and API design patterns
-- 📱 Best practices for scaling Flutter apps in production
-
-<br/>
+- Reviewing backend architecture & API design patterns
+- Best practices for scaling Flutter apps in production
 
 ---
 
@@ -112,7 +133,5 @@
 ### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#)
-[![Tech News Page](https://img.shields.io/badge/Tech%20News-185K%2B%20followers-3B82F6?style=for-the-badge)](#)
 
 </div>
