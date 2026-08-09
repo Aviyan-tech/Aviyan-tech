@@ -2,15 +2,25 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aviyan%20%7C%20a%20backend%20developer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Engineering%20Scalable%20Backends.%20Building%20Flutter%20Apps.%20Winning%20Presentations.&descAlignY=62&descSize=16" width="100%"/>
 
-```
-backend develop
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Backend+Developer+%40+Everacy+Tech;Building+Scalable+APIs+%26+Systems;Flutter+%7C+Java+EE+%7C+Python+%7C+MySQL;4x+Award+Winner+%7C+185K%2B+Followers" alt="Typing SVG"/>
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 ![Profile Views](https://komarev.com/ghpvc/?username=Aviyan-tech&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/Aviyan-tech?style=for-the-badge&color=EC4899)
+![Award Badge](https://img.shields.io/badge/AWARDS-4x%20Winner-F2C811?style=for-the-badge&labelColor=1a1a2e)
+
+<br/>
+
+<img src="https://img.shields.io/badge/OPEN%20TO-Collaboration-6366F1?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/OPEN%20TO-Backend%20Roles-8B5CF6?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/OPEN%20TO-Flutter%20Projects-EC4899?style=flat-square&labelColor=1a1a2e"/>
 
 </div>
+
+<br/>
+
 
 ---
 
@@ -129,10 +139,6 @@ backend develop
 <div align="center">
 
 ### Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-
-</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
