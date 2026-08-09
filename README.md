@@ -93,7 +93,7 @@
 <td align="center" width="33%">
 <h1>🥇</h1>
 <b>Winner — IoT Project</b><br/>
-<img src="https://img.shields.io/badge/ICP%20CASE%202025-F2C811?style=flat-square&labelColor=1a1a2e"/>
+<img src="https://img.shields.io/badge/ICP%20IoT%20FEST%202026-F2C811?style=flat-square&labelColor=1a1a2e"/>
 </td>
 <td align="center" width="33%">
 <h1>🎤</h1>
@@ -124,7 +124,6 @@
 </td>
 </tr>
 </table>
-
 ---
 
 ## Looking for Help With
