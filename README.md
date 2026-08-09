@@ -1,15 +1,13 @@
 <div align="center">
 
-# Aviyan | a backend developer
-
-Engineering Scalable Backends. Building Flutter Apps. Winning Presentations.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aviyan%20%7C%20a%20backend%20developer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Engineering%20Scalable%20Backends.%20Building%20Flutter%20Apps.%20Winning%20Presentations.&descAlignY=62&descSize=16" width="100%"/>
 
 ```
 backend develop
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-![Profile Views](https://img.shields.io/badge/dynamic/json?color=6366F1&label=PROFILE%20VIEWS&query=%24.count&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FAviyan-tech%2Fprofile&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Aviyan-tech&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/Aviyan-tech?style=for-the-badge&color=EC4899)
 
 </div>
@@ -90,19 +88,5 @@ backend develop
 ### Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-
-</div>
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
-
-<i>"Code is the bridge between data and decisions."</i>
-
-</div>
 
 </div>
